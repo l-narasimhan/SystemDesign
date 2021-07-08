@@ -28,7 +28,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[Link1](https://github.com/lnarasimhan83/SystemDesign/Twitter-POST-API.md)
+[Link1](https://lnarasimhan83.github.io/SystemDesign/Twitter-POST-API.html)
 
 
 ### Jekyll Themes
