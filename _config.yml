@@ -1,4 +1,8 @@
 theme: jekyll-theme-cayman
 
+relative_links:
+  enabled: true
+  collections: true
+
 include:
 - Twitter_POST_API.md
