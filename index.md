@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 [Link](url) and ![Image](src)
-my fav link [Link1](https://github.com/l-narasimhan/SystemDesign/Twitter_POST_API.html).
+my fav link [Link1](Twitter_POST_API.html).
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
