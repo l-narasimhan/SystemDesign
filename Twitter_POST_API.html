@@ -29,15 +29,30 @@
 
 **Step - 1** -  Design the most basic system. 
 
-Service Layer - Java Springboot App 
-DB: Oracle 
-API Gateway - Zuul 
+**Service Layer** - Java Springboot App 
+**DB: Oracle**
+API Gateway  
 
-Deployment: App running in Cloud(any) using Kubernetes for orchestration 
+Deployment: App running in Cloud - lets consider AWS(for the sake of it)
 
-DB Model: 
+API - createTweet
+API Method: POST
+createTweet {
+    userMetaData :  {
+        userId,
+        userLocation
+        userTimeZone
+        userTime
+    }
+    tweet: {
+        tweetId
+        tweetText
+    }
+}
+
+Note: Have excluded images/video files for now
 
 
-
-
+[Twitter POST API Design](https://app.excalidraw.com/s/PpkIJyiZ9F/87E1GdGYQdE).
+)
 
